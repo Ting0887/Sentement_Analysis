@@ -1,4 +1,4 @@
-# 資料集
+# sentiment analysis
 * yahoo電影評論正負面數量
     * 正面 : 162
     * 負面 : 38
